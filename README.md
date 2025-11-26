@@ -19,7 +19,10 @@ Secure access using IAM roles and policies
 ✅ 1️⃣ Project Architecture
 
 📷 Architecture Diagram:
-![Architecture](Project-Documents/architecture.jpg)
+<p align="center">
+  <img src="./Project%20Documents/architecture.jpg" width="600">
+</p>
+
 
 Frontend
 
@@ -52,22 +55,40 @@ CloudFront	Serves website globally & securely
 CloudWatch	Logs and debugging
 
 📷 DynamoDB Screenshot:
-![DynamoDB](Project-Documents/dynamodb.jpg)
+<p align="center">
+  <img src="./Project%20Documents/dynamodb.jpg" width="600">
+</p>
+
 
 📷 Lambda Screenshot:
-![Lambda](Project-Documents/lambda.jpg)
+<p align="center">
+  <img src="./Project%20Documents/lambda.jpg" width="600">
+</p>
+
 
 📷 API Gateway Screenshot:
-![API](Project-Documents/api.jpg)
+<p align="center">
+  <img src="./Project%20Documents/api.jpg" width="600">
+</p>
+
 
 📷 S3 Hosting Screenshot:
-![S3](Project-Documents/s3.jpg)
+<p align="center">
+  <img src="./Project%20Documents/s3.jpg" width="600">
+</p>
+
 
 📷 CloudFront Screenshot:
-![CloudFront](Project-Documents/cloudfront.jpg)
+<p align="center">
+  <img src="./Project%20Documents/cloudfront.jpg" width="600">
+</p>
+
 
 📷 UI Screenshot:
-![UI](Project-Documents/UI.jpg)
+<p align="center">
+  <img src="./Project%20Documents/UI.jpg" width="600">
+</p>
+
 
 --
 
