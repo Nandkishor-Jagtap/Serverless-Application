@@ -90,7 +90,7 @@ CloudWatch	Logs and debugging
 </p>
 
 
---
+---
 
 ✅ 3️⃣ Steps Performed
 ✅ Step 1: Create DynamoDB Table
@@ -187,7 +187,7 @@ Final website accessible via CloudFront URL
 
 📷 Project Documents/cloudfront.jpg
 
---
+---
 
 
 ✅ 4️⃣ How the App Works
@@ -202,7 +202,7 @@ Final website accessible via CloudFront URL
 
 📷 Project Documents/UI.jpg
 
---
+---
 
 ✅ 5️⃣ Final Output
 
